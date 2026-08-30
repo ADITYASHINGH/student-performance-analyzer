@@ -38,13 +38,14 @@
 
 ## Project Structure
 
+```text
 STUDENT PERFORMANCE ANALYZER/
 │
 ├── charts/
 │   ├── subject_average.png
 │   ├── grade_distribution.png
 │   ├── attendance_vs_percentage.png
-│   └── top_students.png
+│   └── top_student.png
 │
 ├── data/
 │   └── students.csv
@@ -58,7 +59,8 @@ STUDENT PERFORMANCE ANALYZER/
 │   └── visualization.py
 │
 ├── README.md
-└── requirements.txt
+├── requirements.txt
+└── .gitignore
 
 ## Dataset
 - The project uses a synthetic dataset containing 500 student records.
