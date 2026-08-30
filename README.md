@@ -159,7 +159,7 @@ STUDENT PERFORMANCE ANALYZER/
 - python src/main.py
 - The program performs data analysis, statistical analysis, and generates visualizations.
 
-##### Future Improvements
+## Future Improvements
 
 - Add an interactive Streamlit dashboard.
 - Add student-wise search and filtering.
@@ -169,8 +169,8 @@ STUDENT PERFORMANCE ANALYZER/
 - Add export functionality for analysis reports.
 - Add more interactive charts and dashboards.
 
-# Student Performance Analyzer
+## Author
 
-- **Developed by:** Aditya Singh  
-- **Technology:** Python, Pandas, NumPy, Matplotlib
-- A Python-based data analysis project that analyzes student academic performance using Pandas and NumPy and visualizes key insights using Matplotlib.
+**Aditya Singh**
+
+**Technologies:** Python, Pandas, NumPy, Matplotlib
