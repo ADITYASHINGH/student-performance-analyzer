@@ -1,5 +1,9 @@
 # Student Performance Analyzer
-- A Python-based data analysis project that analyzes student academic performance using Pandas and NumPy and visualizes key insights using Matplotlib.
+
+**Developed by:** Aditya Singh  
+**Technologies:** Python, Pandas, NumPy, Matplotlib
+
+A Python-based data analysis project that analyzes student academic performance using Pandas and NumPy and visualizes key insights using Matplotlib..
 
 ## Project Overview
 - The Student Performance Analyzer is a data analysis project designed to evaluate student academic performance based on marks, attendance, and demographic information.
